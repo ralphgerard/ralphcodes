@@ -14,11 +14,11 @@ section.resume-section {
     .resume-section-content {
         width: 100%;
     }
-    .educationImage {
-        width: 100px;
-        height: auto;
-        display: inline;
-    }
+    // .educationImage {
+    //     width: 100px;
+    //     height: auto;
+    //     display: inline;
+    // }
 }
 
 @include media-breakpoint-up(md) {
